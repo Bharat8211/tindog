@@ -100,7 +100,7 @@ color: #fff;
 #wierd-logo{
   width: 8%;
 }
-@media (max-width:1028px) {
+@media (max-width:768px) {
   #title{
     text-align: center;
 
